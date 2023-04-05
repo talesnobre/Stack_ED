@@ -1,6 +1,8 @@
 # UNIVERSIDADE FEDERAL DA PARAÍBA
 ## CENTRO DE INFORMÁTICA
 ## Disciplina: Estrutura de Dados
+## Aluno: Tales Nobre / Matrícula: 20200025983
+
 
 ## Pilha de inteiros
 
